@@ -1,0 +1,31 @@
+.profile_pic{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: auto;
+    border-radius: 10%;
+}
+
+.center {
+    width: 100%;
+    margin: auto;
+    width: 16%;
+}
+
+.outer {
+    width: 100%;
+    text-align: center;
+}
+
+.inner {
+    display: inline-block;
+}
+
+.btn{
+    background: silver;
+    color: black;
+}
+
+.btn:hover{
+    background: grey;
+}
